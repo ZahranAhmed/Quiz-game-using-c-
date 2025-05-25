@@ -1,0 +1,600 @@
+What is the capital of Italy?
+Rome
+Milan
+Naples
+Venice
+A
+Which element has the symbol 'H'?
+Helium
+Hydrogen
+Hassium
+Holmium
+B
+Who developed the theory of relativity?
+Newton
+Tesla
+Einstein
+Curie
+C
+What is the largest ocean on Earth?
+Atlantic
+Indian
+Arctic
+Pacific
+D
+Which planet has the most moons?
+Earth
+Mars
+Jupiter
+Saturn
+D
+Who wrote 'Hamlet'?
+Charles Dickens
+William Shakespeare
+Jane Austen
+Leo Tolstoy
+B
+What is the square root of 144?
+10
+11
+12
+13
+C
+Which gas is essential for human respiration?
+Hydrogen
+Oxygen
+Carbon
+Nitrogen
+B
+What is the national animal of China?
+Elephant
+Tiger
+Giant Panda
+Crocodile
+C
+Which country hosted the 2016 Summer Olympics?
+China
+UK
+Brazil
+USA
+C
+How many continents are there?
+5
+6
+7
+8
+C
+What is the boiling point of water at sea level?
+100°C
+90°C
+80°C
+110°C
+A
+What is the chemical formula of water?
+H2O
+CO2
+O2
+NaCl
+A
+What is the tallest mountain in the world?
+K2
+Kangchenjunga
+Lhotse
+Everest
+D
+Who painted 'Starry Night'?
+Leonardo da Vinci
+Pablo Picasso
+Vincent van Gogh
+Claude Monet
+C
+What is the smallest country in the world?
+Monaco
+Nauru
+Vatican City
+Malta
+C
+Which language is primarily spoken in Brazil?
+Spanish
+Portuguese
+French
+English
+B
+What is the fastest land animal?
+Cheetah
+Lion
+Horse
+Kangaroo
+A
+Which planet is closest to the sun?
+Venus
+Earth
+Mercury
+Mars
+C
+What is the currency of Japan?
+Won
+Dollar
+Euro
+Yen
+D
+What is the result of 21 + 21?
+22
+23
+24
+42
+D
+What is the result of 22 + 22?
+23
+24
+25
+44
+D
+What is the result of 23 + 23?
+24
+25
+26
+46
+D
+What is the result of 24 + 24?
+25
+26
+27
+48
+D
+What is the result of 25 + 25?
+26
+27
+28
+50
+D
+What is the result of 26 + 26?
+27
+28
+29
+52
+D
+What is the result of 27 + 27?
+28
+29
+30
+54
+D
+What is the result of 28 + 28?
+29
+30
+31
+56
+D
+What is the result of 29 + 29?
+30
+31
+32
+58
+D
+What is the result of 30 + 30?
+31
+32
+33
+60
+D
+What is the result of 31 + 31?
+32
+33
+34
+62
+D
+What is the result of 32 + 32?
+33
+34
+35
+64
+D
+What is the result of 33 + 33?
+34
+35
+36
+66
+D
+What is the result of 34 + 34?
+35
+36
+37
+68
+D
+What is the result of 35 + 35?
+36
+37
+38
+70
+D
+What is the result of 36 + 36?
+37
+38
+39
+72
+D
+What is the result of 37 + 37?
+38
+39
+40
+74
+D
+What is the result of 38 + 38?
+39
+40
+41
+76
+D
+What is the result of 39 + 39?
+40
+41
+42
+78
+D
+What is the result of 40 + 40?
+41
+42
+43
+80
+D
+What is the result of 41 + 41?
+42
+43
+44
+82
+D
+What is the result of 42 + 42?
+43
+44
+45
+84
+D
+What is the result of 43 + 43?
+44
+45
+46
+86
+D
+What is the result of 44 + 44?
+45
+46
+47
+88
+D
+What is the result of 45 + 45?
+46
+47
+48
+90
+D
+What is the result of 46 + 46?
+47
+48
+49
+92
+D
+What is the result of 47 + 47?
+48
+49
+50
+94
+D
+What is the result of 48 + 48?
+49
+50
+51
+96
+D
+What is the result of 49 + 49?
+50
+51
+52
+98
+D
+What is the result of 50 + 50?
+51
+52
+53
+100
+D
+What is the result of 51 + 51?
+52
+53
+54
+102
+D
+What is the result of 52 + 52?
+53
+54
+55
+104
+D
+What is the result of 53 + 53?
+54
+55
+56
+106
+D
+What is the result of 54 + 54?
+55
+56
+57
+108
+D
+What is the result of 55 + 55?
+56
+57
+58
+110
+D
+What is the result of 56 + 56?
+57
+58
+59
+112
+D
+What is the result of 57 + 57?
+58
+59
+60
+114
+D
+What is the result of 58 + 58?
+59
+60
+61
+116
+D
+What is the result of 59 + 59?
+60
+61
+62
+118
+D
+What is the result of 60 + 60?
+61
+62
+63
+120
+D
+What is the result of 61 + 61?
+62
+63
+64
+122
+D
+What is the result of 62 + 62?
+63
+64
+65
+124
+D
+What is the result of 63 + 63?
+64
+65
+66
+126
+D
+What is the result of 64 + 64?
+65
+66
+67
+128
+D
+What is the result of 65 + 65?
+66
+67
+68
+130
+D
+What is the result of 66 + 66?
+67
+68
+69
+132
+D
+What is the result of 67 + 67?
+68
+69
+70
+134
+D
+What is the result of 68 + 68?
+69
+70
+71
+136
+D
+What is the result of 69 + 69?
+70
+71
+72
+138
+D
+What is the result of 70 + 70?
+71
+72
+73
+140
+D
+What is the result of 71 + 71?
+72
+73
+74
+142
+D
+What is the result of 72 + 72?
+73
+74
+75
+144
+D
+What is the result of 73 + 73?
+74
+75
+76
+146
+D
+What is the result of 74 + 74?
+75
+76
+77
+148
+D
+What is the result of 75 + 75?
+76
+77
+78
+150
+D
+What is the result of 76 + 76?
+77
+78
+79
+152
+D
+What is the result of 77 + 77?
+78
+79
+80
+154
+D
+What is the result of 78 + 78?
+79
+80
+81
+156
+D
+What is the result of 79 + 79?
+80
+81
+82
+158
+D
+What is the result of 80 + 80?
+81
+82
+83
+160
+D
+What is the result of 81 + 81?
+82
+83
+84
+162
+D
+What is the result of 82 + 82?
+83
+84
+85
+164
+D
+What is the result of 83 + 83?
+84
+85
+86
+166
+D
+What is the result of 84 + 84?
+85
+86
+87
+168
+D
+What is the result of 85 + 85?
+86
+87
+88
+170
+D
+What is the result of 86 + 86?
+87
+88
+89
+172
+D
+What is the result of 87 + 87?
+88
+89
+90
+174
+D
+What is the result of 88 + 88?
+89
+90
+91
+176
+D
+What is the result of 89 + 89?
+90
+91
+92
+178
+D
+What is the result of 90 + 90?
+91
+92
+93
+180
+D
+What is the result of 91 + 91?
+92
+93
+94
+182
+D
+What is the result of 92 + 92?
+93
+94
+95
+184
+D
+What is the result of 93 + 93?
+94
+95
+96
+186
+D
+What is the result of 94 + 94?
+95
+96
+97
+188
+D
+What is the result of 95 + 95?
+96
+97
+98
+190
+D
+What is the result of 96 + 96?
+97
+98
+99
+192
+D
+What is the result of 97 + 97?
+98
+99
+100
+194
+D
+What is the result of 98 + 98?
+99
+100
+101
+196
+D
+What is the result of 99 + 99?
+100
+101
+102
+198
+D
+What is the result of 100 + 100?
+101
+102
+103
+200
+D
